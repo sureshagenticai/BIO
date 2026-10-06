@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🤖 **AI Engineer & Copilot Developer**: I build AI agents, custom copilots and LLM-powered apps
-- 💼 Working at **Accenture** as an **Azure Data Engineer** (client: QBE Insurance)
+- 💼 Working at **Capgemini** as an **AI Engineer** Ex-**Accenture**
 - 🧠 Focus areas: **Agentic AI, RAG, Microsoft Copilot extensibility, prompt engineering**
 - 📊 Background in data analytics and engineering, so my AI work rests on solid data pipelines
 - 📍 Based in **Hyderabad, India**
